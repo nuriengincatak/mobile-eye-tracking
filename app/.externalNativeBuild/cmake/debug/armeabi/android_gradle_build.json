@@ -1,0 +1,265 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/Engin/AndroidStudioProjects/Eye Locator/googly-eyes/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Engin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\.externalNativeBuild\\cmake\\debug\\armeabi\" --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"IlmImf-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "IlmImf",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/libIlmImf.a",
+			"toolchain" : "1378265333"
+		},
+		"libcpufeatures-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libcpufeatures",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/libcpufeatures.a",
+			"toolchain" : "1378265333"
+		},
+		"libjasper-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libjasper",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/liblibjasper.a",
+			"toolchain" : "1378265333"
+		},
+		"libjpeg-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libjpeg",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/liblibjpeg.a",
+			"toolchain" : "1378265333"
+		},
+		"libpng-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libpng",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/liblibpng.a",
+			"toolchain" : "1378265333"
+		},
+		"libprotobuf-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libprotobuf",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/liblibprotobuf.a",
+			"toolchain" : "1378265333"
+		},
+		"libtiff-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libtiff",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/liblibtiff.a",
+			"toolchain" : "1378265333"
+		},
+		"libwebp-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libwebp",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/liblibwebp.a",
+			"toolchain" : "1378265333"
+		},
+		"native-lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\Engin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\.externalNativeBuild\\cmake\\debug\\armeabi\" --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=C:/Users/Engin/AppData/Local/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/Engin/AppData/Local/Android/sdk/ndk-bundle/sysroot  -DTBB_USE_GCC_BUILTINS=1 -D__TBB_GCC_BUILTIN_ATOMICS_PRESENT=1 -Dnative_lib_EXPORTS -isystem C:\\Users\\Engin\\AndroidStudioProjects\\OpenCV-android-sdk\\sdk\\native\\jni\\include -isystem C:\\Users\\Engin\\AndroidStudioProjects\\OpenCV-android-sdk\\sdk\\native\\jni\\include\\opencv -isystem C:\\Users\\Engin\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\Engin\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem C:\\Users\\Engin\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/Engin/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=9 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/Engin/AndroidStudioProjects/Eye Locator/googly-eyes/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/Users/Engin/AndroidStudioProjects/Eye Locator/googly-eyes/app/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "C:/Users/Engin/AndroidStudioProjects/Eye Locator/googly-eyes/app/build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so",
+			"toolchain" : "1378265333"
+		},
+		"opencv_calib3d-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_calib3d",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_calib3d.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_core-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_core",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_core.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_dnn-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_dnn",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_dnn.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_features2d-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_features2d",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_features2d.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_flann-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_flann",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_flann.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_highgui-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_highgui",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_highgui.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_imgcodecs-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_imgcodecs.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_imgproc-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_imgproc",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_imgproc.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_java-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_java",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_java3.so",
+			"toolchain" : "1378265333"
+		},
+		"opencv_ml-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_ml",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_ml.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_objdetect-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_objdetect",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_objdetect.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_photo-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_photo",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_photo.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_shape-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_shape",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_shape.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_stitching-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_stitching",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_stitching.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_superres-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_superres",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_superres.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_video-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_video",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_video.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_videoio-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_videoio",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_videoio.a",
+			"toolchain" : "1378265333"
+		},
+		"opencv_videostab-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "opencv_videostab",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/libs/armeabi/libopencv_videostab.a",
+			"toolchain" : "1378265333"
+		},
+		"tbb-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "tbb",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/libtbb.a",
+			"toolchain" : "1378265333"
+		},
+		"tegra_hal-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "tegra_hal",
+			"buildType" : "debug",
+			"output" : "C:/Users/Engin/AndroidStudioProjects/OpenCV-android-sdk/sdk/native/3rdparty/libs/armeabi/libtegra_hal.a",
+			"toolchain" : "1378265333"
+		}
+	},
+	"toolchains" : 
+	{
+		"1378265333" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Engin/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Engin/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Engin\\.android\\build-cache\\e2e6fc93cc4dc2d45da19186b56d4a2a49dc4808\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Engin\\.android\\build-cache\\e2e6fc93cc4dc2d45da19186b56d4a2a49dc4808\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Engin\\.android\\build-cache\\cd01e6f4f3640d8c59e7939f6e546070e0e9ee80\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Engin\\.android\\build-cache\\cd01e6f4f3640d8c59e7939f6e546070e0e9ee80\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Engin\\.android\\build-cache\\e2e6fc93cc4dc2d45da19186b56d4a2a49dc4808\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Engin\\.android\\build-cache\\cd01e6f4f3640d8c59e7939f6e546070e0e9ee80\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Engin\\.android\\build-cache\\cd01e6f4f3640d8c59e7939f6e546070e0e9ee80\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Engin\\AndroidStudioProjects\\Eye Locator\\googly-eyes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Engin\\.android\\build-cache\\e2e6fc93cc4dc2d45da19186b56d4a2a49dc4808\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]
